@@ -1,0 +1,38 @@
+export default {
+  login: 'KreshnikZabergja',
+  id: 90647614,
+  node_id: 'MDQ6VXNlcjkwNjQ3NjE0',
+  avatar_url: 'https://avatars.githubusercontent.com/u/90647614?v=4',
+  gravatar_id: '',
+  url: 'https://api.github.com/users/KreshnikZabergja',
+  html_url: 'https://github.com/KreshnikZabergja',
+  followers_url: 'https://api.github.com/users/KreshnikZabergja/followers',
+  following_url:
+    'https://api.github.com/users/KreshnikZabergja/following{/other_user}',
+  gists_url: 'https://api.github.com/users/KreshnikZabergja/gists{/gist_id}',
+  starred_url:
+    'https://api.github.com/users/KreshnikZabergja/starred{/owner}{/repo}',
+  subscriptions_url:
+    'https://api.github.com/users/KreshnikZabergja/subscriptions',
+  organizations_url: 'https://api.github.com/users/KreshnikZabergja/orgs',
+  repos_url: 'https://api.github.com/users/KreshnikZabergja/repos',
+  events_url: 'https://api.github.com/users/KreshnikZabergja/events{/privacy}',
+  received_events_url:
+    'https://api.github.com/users/KreshnikZabergja/received_events',
+  type: 'User',
+  site_admin: false,
+  name: 'Kreshnik Zabergja',
+  company: 'Unix Dev',
+  blog: 'kreshnikzabergja.netlify.app',
+  location: 'Vushtrri',
+  email: 'kreshnik.zabergja1@hotmail.com',
+  hireable: null,
+  bio: 'Full-Stack JavaScript Engineer',
+  twitter_username: 'kreshnikzabergja',
+  public_repos: 9,
+  public_gists: 10,
+  followers: 100,
+  following: 20,
+  created_at: '2021-09-13T18:53:44Z',
+  updated_at: '2023-03-15T23:08:33Z',
+}
